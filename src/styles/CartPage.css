@@ -1,0 +1,139 @@
+.cart-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+.cart-header {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.cart-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 80%;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #fff;
+}
+
+.cart-item img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+.cart-item-details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.cart-item-details div {
+  margin-bottom: 10px;
+}
+
+.cart-item-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.cart-item-actions button {
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.cart-item-actions button:hover {
+  background-color: #444;
+}
+
+.cart-total {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.cart-checkout {
+  margin-top: 20px;
+}
+
+.cart-checkout button {
+  padding: 15px 30px;
+  font-size: 16px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.cart-checkout button:hover {
+  background-color: #444;
+}
+
+.saved-items-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+}
+
+.saved-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+  background-color: #fff;
+}
+
+.saved-item img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin-right: 20px;
+}
+
+.saved-item-details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.saved-item-details div {
+  margin-bottom: 10px;
+}
+
+.saved-item-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.saved-item-actions button {
+  padding: 10px 20px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.saved-item-actions button:hover {
+  background-color: #444;
+}

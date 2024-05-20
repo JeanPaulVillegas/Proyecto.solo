@@ -1,0 +1,74 @@
+/* src/styles/Header.css */
+.header {
+  background-color: #fff;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  margin: 0;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #333;
+  font-size: 1rem;
+}
+
+.user-actions {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.cart-icon {
+  font-size: 1.5rem;
+  color: #333;
+  text-decoration: none;
+}
+
+.help-link {
+  text-decoration: none;
+  color: #333;
+  font-size: 1rem;
+}
+
+.account-button {
+  background-color: #333;
+  color: #fff;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  text-decoration: none;
+  font-size: 1rem;
+  border: none; /* Agrega esta línea para quitar el borde del botón */
+  cursor: pointer; /* Agrega esta línea para cambiar el cursor al pasar sobre el botón */
+}
+.header .user-actions .logout-button {
+  background-color: #ff4d4d;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.header .user-actions .logout-button:hover {
+  background-color: #ff1a1a;
+}

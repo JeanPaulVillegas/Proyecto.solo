@@ -1,0 +1,209 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Voltron Mini Action Voltron Vehicle Force Figure (Standard)",
+      "brand": "Bandai",
+      "series": "Voltron",
+      "price": 88.99,
+      "image": "https://placehold.co/600x400/png",
+      "description": "From the Voltron franchise comes a new Mini Action Voltron Vehicle Force figure by Action Toys. This figure is highly articulated and able to produce various poses from the series, along with being able to separate various parts to form vehicles. This Voltron Vehicle Force toy figure is sure to be a great addition to any Voltron collection!",
+      "features": [
+        "Mide 18 centimetros",
+        "Hecho de PVC",
+        "De la serie Voltron",
+        "Articulado",
+        "15 piezas distintas",
+        "Combinable con otras figuras"
+      ],
+      "url": "https://placehold.co/600x400/png"
+    },
+    {
+      "id": "2",
+      "name": "Naruto Shippuden Uchiha Sasuke Figure",
+      "brand": "Bandai",
+      "series": "Naruto Shippuden",
+      "price": 45.99,
+      "image": "path_to_image",
+      "description": "This Sasuke Uchiha figure from Naruto Shippuden stands 16 cm tall and is made of PVC. The figure is highly detailed, capturing Sasuke's intense gaze and his signature outfit from the series.",
+      "features": [
+        "Mide 16 centimetros",
+        "Hecho de PVC",
+        "De la serie Naruto Shippuden",
+        "Altamente detallado",
+        "Captura la esencia del personaje"
+      ],
+      "url": "https://example.com/products/naruto-shippuden-uchiha-sasuke-figure"
+    },
+    {
+      "id": "3",
+      "name": "Dragon Ball Z Goku Super Saiyan Figure",
+      "brand": "Banpresto",
+      "series": "Dragon Ball Z",
+      "price": 60.00,
+      "image": "path_to_image",
+      "description": "This Super Saiyan Goku figure is a must-have for any Dragon Ball Z fan. Standing at 20 cm, it features Goku in his iconic Super Saiyan form, ready for battle.",
+      "features": [
+        "Mide 20 centimetros",
+        "Hecho de PVC",
+        "De la serie Dragon Ball Z",
+        "Super Saiyan forma",
+        "Incluye base de soporte"
+      ],
+      "url": "https://example.com/products/dragon-ball-z-goku-super-saiyan-figure"
+    },
+    {
+      "id": "4",
+      "name": "One Piece Monkey D. Luffy Figure",
+      "brand": "Megahouse",
+      "series": "One Piece",
+      "price": 75.50,
+      "image": "path_to_image",
+      "description": "This Monkey D. Luffy figure from One Piece is part of the Portrait.Of.Pirates (P.O.P) series. Standing at 21 cm, it captures Luffy's adventurous spirit and iconic pose.",
+      "features": [
+        "Mide 21 centimetros",
+        "Hecho de PVC",
+        "De la serie One Piece",
+        "Parte de la serie P.O.P",
+        "Poses icónicas"
+      ],
+      "url": "https://example.com/products/one-piece-monkey-d-luffy-figure"
+    },
+    {
+      "id": "5",
+      "name": "Attack on Titan Eren Yeager Figure",
+      "brand": "Good Smile Company",
+      "series": "Attack on Titan",
+      "price": 85.00,
+      "image": "path_to_image",
+      "description": "Eren Yeager from Attack on Titan is brought to life with this detailed figure. At 18 cm, Eren is depicted in his Survey Corps uniform, ready to take on any Titan.",
+      "features": [
+        "Mide 18 centimetros",
+        "Hecho de PVC",
+        "De la serie Attack on Titan",
+        "Incluye accesorios de la Survey Corps",
+        "Figura detallada"
+      ],
+      "url": "https://example.com/products/attack-on-titan-eren-yeager-figure"
+    },
+    {
+      "id": "6",
+      "name": "My Hero Academia Izuku Midoriya Figure",
+      "brand": "Kotobukiya",
+      "series": "My Hero Academia",
+      "price": 70.00,
+      "image": "path_to_image",
+      "description": "This figure of Izuku Midoriya, also known as Deku, from My Hero Academia stands at 19 cm. It features Deku in his hero costume, ready to take on any challenge.",
+      "features": [
+        "Mide 19 centimetros",
+        "Hecho de PVC",
+        "De la serie My Hero Academia",
+        "Traje de héroe",
+        "Base incluida"
+      ],
+      "url": "https://example.com/products/my-hero-academia-izuku-midoriya-figure"
+    },
+    {
+      "id": "7",
+      "name": "Sword Art Online Kirito Figure",
+      "brand": "Aniplex",
+      "series": "Sword Art Online",
+      "price": 95.00,
+      "image": "path_to_image",
+      "description": "Kirito from Sword Art Online is depicted in this stunning figure. Standing at 22 cm, Kirito is shown in his signature black outfit, wielding his swords.",
+      "features": [
+        "Mide 22 centimetros",
+        "Hecho de PVC",
+        "De la serie Sword Art Online",
+        "Incluye espadas",
+        "Alta calidad de detalles"
+      ],
+      "url": "https://example.com/products/sword-art-online-kirito-figure"
+    },
+    {
+      "id": "8",
+      "name": "Fairy Tail Natsu Dragneel Figure",
+      "brand": "SEGA",
+      "series": "Fairy Tail",
+      "price": 55.00,
+      "image": "path_to_image",
+      "description": "This Natsu Dragneel figure from Fairy Tail is highly detailed and captures Natsu's fiery personality. Standing at 18 cm, it includes his iconic scarf and fire effects.",
+      "features": [
+        "Mide 18 centimetros",
+        "Hecho de PVC",
+        "De la serie Fairy Tail",
+        "Incluye efectos de fuego",
+        "Bufanda icónica"
+      ],
+      "url": "https://example.com/products/fairy-tail-natsu-dragneel-figure"
+    },
+    {
+      "id": "9",
+      "name": "Bleach Ichigo Kurosaki Figure",
+      "brand": "Alpha x Omega",
+      "series": "Bleach",
+      "price": 80.00,
+      "image": "path_to_image",
+      "description": "This Ichigo Kurosaki figure from Bleach stands at 20 cm and features Ichigo in his Soul Reaper uniform, ready to battle with his Zanpakuto.",
+      "features": [
+        "Mide 20 centimetros",
+        "Hecho de PVC",
+        "De la serie Bleach",
+        "Uniforme de Soul Reaper",
+        "Incluye Zanpakuto"
+      ],
+      "url": "https://example.com/products/bleach-ichigo-kurosaki-figure"
+    },
+    {
+      "id": "10",
+      "name": "Death Note Light Yagami Figure",
+      "brand": "Medicom Toy",
+      "series": "Death Note",
+      "price": 65.00,
+      "image": "path_to_image",
+      "description": "Light Yagami from Death Note is captured in this detailed figure. Standing at 17 cm, Light is depicted holding the Death Note, with a confident expression.",
+      "features": [
+        "Mide 17 centimetros",
+        "Hecho de PVC",
+        "De la serie Death Note",
+        "Incluye Death Note",
+        "Expresión confiada"
+      ],
+      "url": "https://example.com/products/death-note-light-yagami-figure"
+    },
+    {
+      "id": "11",
+      "name": "Fullmetal Alchemist Edward Elric Figure",
+      "brand": "Square Enix",
+      "series": "Fullmetal Alchemist",
+      "price": 90.00,
+      "image": "path_to_image",
+      "description": "Edward Elric from Fullmetal Alchemist is featured in this highly detailed figure. Standing at 18 cm, Edward is shown with his automail arm and determined expression.",
+      "features": [
+        "Mide 18 centimetros",
+        "Hecho de PVC",
+        "De la serie Fullmetal Alchemist",
+        "Incluye brazo automail",
+        "Expresión determinada"
+      ],
+      "url": "https://example.com/products/fullmetal-alchemist-edward-elric-figure"
+    },
+    {
+      "id": "12",
+      "name": "Neon Genesis Evangelion Asuka Langley Figure",
+      "brand": "Kaiyodo",
+      "series": "Neon Genesis Evangelion",
+      "price": 77.00,
+      "image": "path_to_image",
+      "description": "This Asuka Langley figure from Neon Genesis Evangelion stands at 19 cm and features Asuka in her iconic red plugsuit, ready for action.",
+      "features": [
+        "Mide 19 centimetros",
+        "Hecho de PVC",
+        "De la serie Neon Genesis Evangelion",
+        "Traje rojo icónico",
+        "Detalles precisos"
+      ],
+      "url": "https://example.com/products/neon-genesis-evangelion-asuka-langley-figure"
+    }
+  ]
+}
